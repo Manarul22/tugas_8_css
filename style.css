@@ -1,0 +1,28 @@
+body {
+  background-image: url(beach.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.satu {
+  background-color: white;
+  background-image: url(avocado.jpg);
+  width: 60%;
+  height: 300px;
+  background-repeat: repeat-y;
+  overflow: scroll;
+  text-align: right;
+  color: blue;
+  font-weight: 600;
+}
+
+.dua {
+  color: green;
+  font-weight: bold;
+}
+
+.tiga {
+  color: red;
+  font-weight: bold;
+  text-align: right;
+}
